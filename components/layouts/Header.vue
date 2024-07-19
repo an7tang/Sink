@@ -18,7 +18,7 @@ const showMenu = ref(false);
                         title="Sink"
                         class="flex items-center py-4 space-x-2 text-xl font-black text-gray-900 dark:text-gray-100 md:py-0"
                     >
-                        <span
+                        <!-- <span
                             class="flex items-center justify-center w-8 h-8 rounded-full"
                         >
                             <img
@@ -26,8 +26,8 @@ const showMenu = ref(false);
                                 alt="Sink"
                                 class="w-full h-full rounded-full"
                             />
-                        </span>
-                        <span class="mx-2">Sink</span>
+                        </span> -->
+                        <span class="mx-2">Anthony Tang's Cloud</span>
                     </a>
                 </div>
 
@@ -44,7 +44,7 @@ const showMenu = ref(false);
                             title="Sink"
                             class="inline-flex items-center w-auto h-16 px-4 text-xl font-black leading-none text-gray-900 dark:text-gray-100 md:hidden"
                         >
-                            <span
+                            <!-- <span
                                 class="flex items-center justify-center w-8 h-8 text-white bg-gray-900 rounded-full"
                             >
                                 <img
@@ -52,8 +52,8 @@ const showMenu = ref(false);
                                     alt="Sink"
                                     class="w-full h-full rounded-full"
                                 />
-                            </span>
-                            <span class="mx-2">Sink</span>
+                            </span> -->
+                            <span class="mx-2">Anthony Tang's Cloud</span>
                         </a>
                         <div class="w-full mx-4" />
                         <div
