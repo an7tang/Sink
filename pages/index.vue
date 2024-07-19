@@ -1,9 +1,10 @@
 <template>
-  <main class="flex flex-col justify-center">
-    <HomeTwitter />
-    <HomeHero />
-    <HomeFeatures />
-    <HomeLogos />
-    <HomeCta />
-  </main>
+    <main class="flex flex-col justify-center">
+        <!-- <HomeTwitter /> -->
+        <HomeHero />
+        <DashboardLogin />
+        <!-- <HomeFeatures /> -->
+        <!-- <HomeLogos /> -->
+        <!-- <HomeCta /> -->
+    </main>
 </template>
